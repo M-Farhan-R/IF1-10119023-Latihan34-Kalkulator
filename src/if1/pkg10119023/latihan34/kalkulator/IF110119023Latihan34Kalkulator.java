@@ -12,7 +12,8 @@ package if1.pkg10119023.latihan34.kalkulator;
  * NAMA              : Muhammad Farhan R 
  * KELAS             : IF1
  * NIM               : 10119023
- * Deskripsi Program :
+ * Deskripsi Program :　program kalkulaor menambah,mengurang,mengali,membagi dan menampilkan 
+ *                      sisa hasil bagi antara 2 bilangan
  *
  */
 import java.util.Scanner;
